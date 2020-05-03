@@ -11,7 +11,8 @@
 > Low-fidelity prototype. It's done on paper, note cards, or a white board and maps very high level interactions within the planned software. 
 > A prototype is not a long-term artifact of your development process and you don’t want to cause any confusion by keeping it around
 
-:x: Identify actual screens and fields,
+:x: Identify actual screens and fields
+
 :heavy_check_mark: The conceptual workflows are identified.
 
 ![alt text](./images/low-fidelity-protoype.gif "Low fidelity protoype")
